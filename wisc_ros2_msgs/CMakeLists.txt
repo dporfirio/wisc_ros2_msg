@@ -25,6 +25,7 @@ rosidl_generate_interfaces(wisc_ros2_msgs
   "msg/Behavior.msg"
   "msg/Event.msg"
   "msg/Conditional.msg"
+  "msg/WebContent.msg"
 )
 
 ament_package()
