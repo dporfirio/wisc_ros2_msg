@@ -1,0 +1,2 @@
+StringArray deactivate
+StringArray activate
