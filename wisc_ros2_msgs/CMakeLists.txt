@@ -18,6 +18,7 @@ find_package(geometry_msgs REQUIRED)
 
 rosidl_generate_interfaces(wisc_ros2_msgs
   "msg/StringArray.msg"
+  "msg/String2DArray.msg"
   "msg/TransitionSystems.msg"
   "msg/TransitionSystem.msg"
   "msg/State.msg"
@@ -27,6 +28,7 @@ rosidl_generate_interfaces(wisc_ros2_msgs
   "msg/Conditional.msg"
   "msg/WebContent.msg"
   "msg/ActivationState.msg"
+  "msg/Query.msg"
 )
 
 ament_package()
