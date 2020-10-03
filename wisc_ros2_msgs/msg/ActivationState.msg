@@ -1,2 +1,3 @@
 StringArray deactivate
 StringArray activate
+bool[] stream_after_activation
