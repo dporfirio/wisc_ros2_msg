@@ -29,6 +29,8 @@ rosidl_generate_interfaces(wisc_ros2_msgs
   "msg/WebContent.msg"
   "msg/ActivationState.msg"
   "msg/Query.msg"
+  "msg/ExecutionTrace.msg"
+  "msg/UICommand.msg"
 )
 
 ament_package()
