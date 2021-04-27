@@ -1,4 +1,4 @@
 State[] states
 Transition[] transitions
-State init
+int32 init
 string name
