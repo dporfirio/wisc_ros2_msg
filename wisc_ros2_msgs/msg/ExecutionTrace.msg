@@ -3,4 +3,5 @@ UICommand[] commands
 string[] alt_cmd_suggestions
 string alt_cmd_severity
 
-string[] hidden_path_suggestion
+UICommand[] hidden_path_suggestion
+UICommand future_state_suggestion
